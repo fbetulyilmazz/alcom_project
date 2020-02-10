@@ -1,0 +1,14 @@
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\bin\Debug\Alcom.DAL.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\bin\Debug\Alcom.DAL.pdb
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\bin\Debug\Alcom.MODEL.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\bin\Debug\Alcom.MODEL.pdb
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\obj\Debug\Alcom.DAL.csprojAssemblyReference.cache
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\obj\Debug\Alcom.DAL.csproj.CoreCompileInputs.cache
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\obj\Debug\Alcom.DAL.csproj.CopyComplete
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\obj\Debug\Alcom.DAL.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\obj\Debug\Alcom.DAL.pdb
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\bin\Debug\Alcom.DAL.dll.config
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\bin\Debug\EntityFramework.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\bin\Debug\EntityFramework.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.DAL\bin\Debug\EntityFramework.SqlServer.xml

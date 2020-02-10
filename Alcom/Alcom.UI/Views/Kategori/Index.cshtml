@@ -1,0 +1,22 @@
+﻿@using Alcom.MODEL
+@model List<Kategori>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        @foreach (var item in Model)
+        {
+@item.Adi <br />
+        }
+    </div>
+</body>
+</html>
