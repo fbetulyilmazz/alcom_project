@@ -17,12 +17,19 @@ namespace Alcom.DAL
         public AlcomContext()
             : base("name=AlcomContext")
         {
+            //Database.SetInitializer<AlcomContext>(new CreateDatabaseIfNotExists<AlcomContext>());
+            //Database.SetInitializer<AlcomContext>(new DropCreateDatabaseAlways<AlcomContext>());
+            //Database.SetInitializer<AlcomContext>(new DropCreateDatabaseIfModelChanges<AlcomContext>());
+            Database.SetInitializer<AlcomContext>(new MigrateDatabaseToLatestVersion<AlcomContext, Alcom.DAL.Migrations.Configuration>());
+
         }
+
+
 
         // Add a DbSet for each entity type that you want to include in your model. For more information 
         // on configuring and using a Code First model, see http://go.microsoft.com/fwlink/?LinkId=390109.
 
-         public virtual DbSet<Adres> Adres { get; set; }
+        public virtual DbSet<Adres> Adres { get; set; }
          public virtual DbSet<Il> Il { get; set; }
          public virtual DbSet<Ilce> Ilce { get; set; }
          public virtual DbSet<KargoBilgileri> KargoBilgileri { get; set; }

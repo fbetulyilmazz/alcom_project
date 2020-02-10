@@ -4,3 +4,9 @@ Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.MOD
 Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.MODEL\obj\Debug\Alcom.MODEL.csproj.CoreCompileInputs.cache
 Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.MODEL\obj\Debug\Alcom.MODEL.dll
 Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta_5_2\Alcom\Alcom.MODEL\obj\Debug\Alcom.MODEL.pdb
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta6_1\Alcom\Alcom.MODEL\bin\Debug\Alcom.MODEL.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta6_1\Alcom\Alcom.MODEL\bin\Debug\Alcom.MODEL.pdb
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta6_1\Alcom\Alcom.MODEL\obj\Debug\Alcom.MODEL.csprojAssemblyReference.cache
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta6_1\Alcom\Alcom.MODEL\obj\Debug\Alcom.MODEL.csproj.CoreCompileInputs.cache
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta6_1\Alcom\Alcom.MODEL\obj\Debug\Alcom.MODEL.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta6_1\Alcom\Alcom.MODEL\obj\Debug\Alcom.MODEL.pdb

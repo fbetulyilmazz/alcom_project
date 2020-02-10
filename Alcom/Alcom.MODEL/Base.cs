@@ -13,7 +13,7 @@ namespace Alcom.MODEL
 
         [Key]
         public int Id { get; set; }
-        [DatabaseGenerated(DatabaseGeneratedOption.Computed)]
+        //[DatabaseGenerated(DatabaseGeneratedOption.Computed)]
         public DateTime KayitTarihi { get; set; }
         public DateTime? GuncellemeTarihi { get; set; }
         [DefaultValue(false)]
