@@ -1,0 +1,321 @@
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\Alcom.dll.config
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\Alcom.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\Alcom.pdb
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\csc.exe
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\csc.exe.config
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\csc.rsp
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\csi.exe
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\csi.exe.config
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\csi.rsp
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.AppContext.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Collections.Immutable.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Console.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.IO.Compression.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.IO.FileSystem.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.IO.Pipes.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Security.AccessControl.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Security.Claims.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.ValueTuple.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Xml.XPath.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\vbc.exe
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\vbc.exe.config
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\vbc.rsp
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\VBCSCompiler.exe
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\roslyn\VBCSCompiler.exe.config
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\Microsoft.Web.Infrastructure.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Helpers.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Mvc.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Razor.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Webpages.Deployment.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Webpages.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Webpages.Razor.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Razor.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Webpages.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Webpages.Deployment.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Webpages.Razor.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Helpers.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Mvc.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\obj\Debug\Alcom.csprojAssemblyReference.cache
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\obj\Debug\Alcom.csproj.CoreCompileInputs.cache
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\obj\Debug\Alcom.csproj.CopyComplete
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\obj\Debug\Alcom.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\obj\Debug\Alcom.pdb
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\Antlr3.Runtime.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\Newtonsoft.Json.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Optimization.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\WebGrease.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\Antlr3.Runtime.pdb
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\Newtonsoft.Json.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta3_2\Alcom\bin\System.Web.Optimization.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\Alcom.dll.config
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\Alcom.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\Alcom.pdb
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\csc.exe
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\csc.exe.config
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\csc.rsp
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\csi.exe
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\csi.exe.config
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\csi.rsp
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.AppContext.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Collections.Immutable.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Console.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.Compression.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.FileSystem.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.Pipes.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.AccessControl.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Claims.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.ValueTuple.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Xml.XPath.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\vbc.exe
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\vbc.exe.config
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\vbc.rsp
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\VBCSCompiler.exe
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\roslyn\VBCSCompiler.exe.config
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\Antlr3.Runtime.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\Microsoft.Web.Infrastructure.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\Newtonsoft.Json.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Helpers.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Mvc.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Optimization.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Razor.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.Deployment.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.Razor.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\WebGrease.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\Antlr3.Runtime.pdb
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\Newtonsoft.Json.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Optimization.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Razor.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.Deployment.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.Razor.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Helpers.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\System.Web.Mvc.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.csprojAssemblyReference.cache
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.csproj.CoreCompileInputs.cache
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.csproj.CopyComplete
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.pdb
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\EntityFramework.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\EntityFramework.SqlServer.dll
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\EntityFramework.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\bin\EntityFramework.SqlServer.xml
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.Migrations.version10.resources
+Z:\Fatma Betül YILMAZ\Asp.Net 2 Akşam Branşı\Proje\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.csproj.GenerateResource.cache
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\Alcom.dll.config
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\Alcom.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\Alcom.pdb
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\csc.exe
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\csc.exe.config
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\csc.rsp
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\csi.exe
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\csi.exe.config
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\csi.rsp
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.AppContext.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Console.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.Compression.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Claims.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.ValueTuple.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\vbc.exe
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\vbc.exe.config
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\vbc.rsp
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\VBCSCompiler.exe
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\Antlr3.Runtime.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\EntityFramework.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\EntityFramework.SqlServer.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\Newtonsoft.Json.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Helpers.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Mvc.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Optimization.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Razor.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.Razor.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\WebGrease.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\Antlr3.Runtime.pdb
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\EntityFramework.xml
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\EntityFramework.SqlServer.xml
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\Newtonsoft.Json.xml
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Optimization.xml
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Razor.xml
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.xml
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.Razor.xml
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Helpers.xml
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Mvc.xml
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.csprojAssemblyReference.cache
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.csproj.CopyComplete
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.dll
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.pdb
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.Migrations.m1.resources
+C:\Users\Crosscheck\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.csproj.GenerateResource.cache
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\Alcom.dll.config
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\Alcom.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\Alcom.pdb
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\csc.exe
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\csc.exe.config
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\csc.rsp
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\csi.exe
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\csi.exe.config
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\csi.rsp
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.AppContext.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Console.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\vbc.exe
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\vbc.exe.config
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\vbc.rsp
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\Antlr3.Runtime.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\EntityFramework.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\Newtonsoft.Json.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Helpers.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Mvc.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Optimization.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Razor.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\WebGrease.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\Antlr3.Runtime.pdb
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\EntityFramework.xml
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\Newtonsoft.Json.xml
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Optimization.xml
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Razor.xml
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.xml
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Helpers.xml
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\System.Web.Mvc.xml
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.csprojAssemblyReference.cache
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.Migrations.m1.resources
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.csproj.GenerateResource.cache
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.csproj.CoreCompileInputs.cache
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.csproj.CopyComplete
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.dll
+C:\Users\Lab03-16\Desktop\Hafta5_1\Alcom\Alcom\obj\Debug\Alcom.pdb
